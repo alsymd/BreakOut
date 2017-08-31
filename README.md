@@ -5,6 +5,9 @@ A cleaner version that supports sound effect, graphic level editing is under dev
 
 ## Compilation
 $ cd build
+
 $ cmake ..
+
 $ make
+
 The above command lines work under (Arch )linux. Make sure that dependencies(SDL2, GNU Guile 2, compiler that supports c++14) are correctly installed.

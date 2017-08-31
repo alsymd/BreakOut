@@ -1,9 +1,9 @@
-#BreakOut
+# BreakOut
 A simple breakout demo written in C++14 with SDL2 as framework and scheme(GNU Guile) as the scripting language for customizing and level editing(Currently only one level is supported).
 
 A cleaner version that supports sound effect, graphic level editing is under development. There will likely be less scheme code mixed up with C++ code thus offering higher efficiency and making the codebase easier for maintenance.
 
-##Compilation
+## Compilation
 $ cd build
 $ cmake ..
 $ make

@@ -1,0 +1,8 @@
+*.[oa]
+*~
+
+/build/*
+!/build/awesomeface.png
+!/build/container.jpg
+!/build/init.scm
+!/build/config.scm
